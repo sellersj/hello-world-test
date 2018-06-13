@@ -11,7 +11,9 @@
   <packaging>jar</packaging>
 
   <properties>
-    <java.version>1.8</java.version>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+
     <!-- Release Plugin Info. -->
     <git.project.id>sellersj</git.project.id>
     <git.repo.name>hello-world-test</git.repo.name>
